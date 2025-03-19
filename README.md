@@ -1,5 +1,3 @@
-
-```markdown
 # College Assignments and Experiments for Python
 
 Welcome to my repository containing Jupyter Notebooks and Python files for college assignment and experiment submissions. This repository is intended to demonstrate my understanding of Python programming concepts and my ability to apply them to solve various problems.
